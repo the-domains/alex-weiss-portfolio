@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[Alex Weiss Portfolio]]></title>
         <description><![CDATA[Alex Weiss Portfolio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://alexweiss.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 19:13:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 09:51:50 GMT</lastBuildDate>
+        <atom:link href="http://alexweiss.me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>http://alexweiss.me/473285dd-f668-4b3b-aad2-f155ff93da05/index.html</link>
+            <guid isPermaLink="false">473285dd-f668-4b3b-aad2-f155ff93da05</guid>
+            <pubDate>Tue, 02 Feb 2016 09:51:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Smart Vase]]></title>
             <description><![CDATA[<h1>Smart Vase</h1>]]></description>
-            <link>undefinedsmart-vase/index.html</link>
+            <link>http://alexweiss.me/smart-vase/index.html</link>
             <guid isPermaLink="false">a582b1c0-5ceb-43eb-befc-bf0a76f9bd02</guid>
             <pubDate>Sun, 31 Jan 2016 19:13:19 GMT</pubDate>
         </item>
