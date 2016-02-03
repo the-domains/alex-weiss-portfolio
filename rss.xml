@@ -4,7 +4,7 @@
         <description><![CDATA[Alex Weiss's Portfolio]]></description>
         <link>http://alexweiss.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 05:35:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 05:37:43 GMT</lastBuildDate>
         <atom:link href="http://alexweiss.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Android Powered Electric Skateboard]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[Smart Vase]]></title>
-            <description><![CDATA[<h1>Smart Vase</h1>]]></description>
+            <description><![CDATA[<article><h1>Smart Vase</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/99ea4d8d-19e9-47bc-850f-d5230e34f25c.jpg"></article>]]></description>
             <link>http://alexweiss.me/smart-vase/index.html</link>
             <guid isPermaLink="false">a582b1c0-5ceb-43eb-befc-bf0a76f9bd02</guid>
-            <pubDate>Wed, 03 Feb 2016 05:35:39 GMT</pubDate>
+            <pubDate>Wed, 03 Feb 2016 05:37:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
