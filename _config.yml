@@ -1,6 +1,6 @@
 name: "Alex Weiss's Portfolio"
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.45936
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#878354'
     - '#17bfff'
     - '#78ffff'
-  brandStrength: 0
-  lightness: 0.3125
+  brandStrength: 1
+  lightness: 0.625
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
