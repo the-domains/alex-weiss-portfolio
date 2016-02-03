@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-03T05:35:39.549Z'
-dateModified: '2016-02-03T05:32:12.774Z'
+datePublished: '2016-02-03T05:37:14.605Z'
+dateModified: '2016-02-03T05:37:12.373Z'
 title: Smart Vase
 author: []
 sourcePath: _posts/2016-01-31-smart-vase.md
@@ -22,4 +22,6 @@ url: smart-vase/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99ea4d8d-19e9-47bc-850f-d5230e34f25c.jpg)
+
 Smart Vase
