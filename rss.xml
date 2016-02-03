@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Alex Weiss's Portfolio]]></title>
-        <description><![CDATA[Alex Weiss's Portfolio]]></description>
+        <title><![CDATA[Alex Weiss]]></title>
+        <description><![CDATA[Alex Weiss]]></description>
         <link>http://alexweiss.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 06:42:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 07:05:17 GMT</lastBuildDate>
         <atom:link href="http://alexweiss.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Android Powered Electric Skateboard]]></title>
-            <description><![CDATA[<h1>Android Powered Electric Skateboard</h1>]]></description>
+            <description><![CDATA[<article><h1>Android Powered Electric Skateboard</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c5f7634-4d90-4db1-8795-a080e1dd08c6.jpg"></article>]]></description>
             <link>http://alexweiss.me/473285dd-f668-4b3b-aad2-f155ff93da05/index.html</link>
             <guid isPermaLink="false">473285dd-f668-4b3b-aad2-f155ff93da05</guid>
-            <pubDate>Wed, 03 Feb 2016 05:35:15 GMT</pubDate>
+            <pubDate>Wed, 03 Feb 2016 07:03:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Smart Vase]]></title>
