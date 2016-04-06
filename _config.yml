@@ -1,6 +1,6 @@
 name: Alex Weiss
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.74708
 typography_spectrum: 0.45936
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#493f33'
-    - '#cac3b1'
-    - '#878354'
-    - '#17bfff'
-    - '#78ffff'
-  brandStrength: 0
+    - '#e8e4e3'
+    - '#000000'
+    - '#aeaaa1'
+    - '#2e2926'
+    - '#857c75'
+  brandStrength: 0.5
   lightness: 0.625
   saturation: 0.5
   rhythmicContrast: 0.5
