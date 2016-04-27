@@ -4,8 +4,15 @@
         <description><![CDATA[Alex Weiss]]></description>
         <link>http://alexweiss.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 04:53:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 04:54:17 GMT</lastBuildDate>
         <atom:link href="http://alexweiss.me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nod Ring]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d1f6b6f-8280-4a7e-a5a7-1a7d042af385.jpg">]]></description>
+            <link>http://alexweiss.me/nod-ring/index.html</link>
+            <guid isPermaLink="false">b1e135a2-2e62-453b-820a-b3e81ffc9e23</guid>
+            <pubDate>Wed, 27 Apr 2016 04:53:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Backspin]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ceaa3e24-aee6-4da4-b37d-0c6706d6aa62.jpg">]]></description>
