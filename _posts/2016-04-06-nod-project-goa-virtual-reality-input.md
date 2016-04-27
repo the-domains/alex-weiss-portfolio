@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: 'nod Project Goa: Virtual Reality Input'
-datePublished: '2016-04-06T04:12:53.166Z'
-dateModified: '2016-04-06T04:12:30.448Z'
+description: 'nod Project Goa: 6DoF Virtual Reality Input'
+datePublished: '2016-04-27T05:13:37.232Z'
+dateModified: '2016-04-27T04:47:43.220Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-06-nod-project-goa-virtual-reality-input.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-06-nod-project-goa-virtual-reality-input.md
-published: true
+starred: false
 url: nod-project-goa-virtual-reality-input/index.html
 _type: Article
 
