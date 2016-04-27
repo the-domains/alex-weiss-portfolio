@@ -4,21 +4,21 @@
         <description><![CDATA[Alex Weiss]]></description>
         <link>http://alexweiss.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 05:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 05:13:53 GMT</lastBuildDate>
         <atom:link href="http://alexweiss.me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Smart Vase]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8432f25-87b7-41a0-a2a8-f5163e6a237e.jpg">]]></description>
+            <link>http://alexweiss.me/smart-vase/index.html</link>
+            <guid isPermaLink="false">a582b1c0-5ceb-43eb-befc-bf0a76f9bd02</guid>
+            <pubDate>Wed, 27 Apr 2016 05:13:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/94b74e72-a993-4a03-ae10-8b0a36e016e5.jpg">]]></description>
             <link>http://alexweiss.me/nod-project-goa-virtual-reality-input/index.html</link>
             <guid isPermaLink="false">27444257-a7b6-4c89-9e0a-8e3126e79fa3</guid>
             <pubDate>Wed, 27 Apr 2016 05:13:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Smart Vase]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8432f25-87b7-41a0-a2a8-f5163e6a237e.jpg">]]></description>
-            <link>http://alexweiss.me/smart-vase/index.html</link>
-            <guid isPermaLink="false">a582b1c0-5ceb-43eb-befc-bf0a76f9bd02</guid>
-            <pubDate>Wed, 27 Apr 2016 05:12:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nod Ring]]></title>
