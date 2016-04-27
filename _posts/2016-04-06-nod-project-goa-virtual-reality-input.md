@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'nod Project Goa: 6DoF Virtual Reality Input'
-datePublished: '2016-04-27T05:13:37.232Z'
-dateModified: '2016-04-27T04:47:43.220Z'
+datePublished: '2016-04-27T05:15:34.062Z'
+dateModified: '2016-04-27T05:13:47.009Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-06-nod-project-goa-virtual-reality-input.md
