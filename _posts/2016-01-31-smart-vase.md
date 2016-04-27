@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-27T05:12:40.844Z'
-dateModified: '2016-04-27T04:47:02.661Z'
+datePublished: '2016-04-27T05:13:51.236Z'
+dateModified: '2016-04-27T05:12:49.771Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-31-smart-vase.md
