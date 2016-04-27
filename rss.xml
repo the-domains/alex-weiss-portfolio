@@ -4,8 +4,15 @@
         <description><![CDATA[Alex Weiss]]></description>
         <link>http://alexweiss.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 05:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 05:15:28 GMT</lastBuildDate>
         <atom:link href="http://alexweiss.me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Backspin]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ceaa3e24-aee6-4da4-b37d-0c6706d6aa62.jpg">]]></description>
+            <link>http://alexweiss.me/backspin/index.html</link>
+            <guid isPermaLink="false">977c857f-698d-4457-b7f0-c02f48fbbce4</guid>
+            <pubDate>Wed, 27 Apr 2016 05:15:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nod Ring]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d1f6b6f-8280-4a7e-a5a7-1a7d042af385.jpg">]]></description>
@@ -33,13 +40,6 @@
             <link>http://alexweiss.me/nod-project-goa-virtual-reality-input/index.html</link>
             <guid isPermaLink="false">27444257-a7b6-4c89-9e0a-8e3126e79fa3</guid>
             <pubDate>Wed, 27 Apr 2016 05:13:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Backspin]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ceaa3e24-aee6-4da4-b37d-0c6706d6aa62.jpg">]]></description>
-            <link>http://alexweiss.me/backspin/index.html</link>
-            <guid isPermaLink="false">977c857f-698d-4457-b7f0-c02f48fbbce4</guid>
-            <pubDate>Wed, 27 Apr 2016 04:51:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
